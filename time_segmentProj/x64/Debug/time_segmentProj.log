@@ -1,0 +1,4 @@
+﻿  time.c
+C:\24_1_lus\C언어\time_segmentProj\time.c(16,8): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+C:\24_1_lus\C언어\time_segmentProj\time.c(48,10): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  time_segmentProj.vcxproj -> C:\24_1_lus\C언어\time_segmentProj\x64\Debug\time_segmentProj.exe

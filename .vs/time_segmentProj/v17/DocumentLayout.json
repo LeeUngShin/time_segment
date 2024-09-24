@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\24_1_lus\\C\uC5B8\uC5B4\\time_segmentProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35E501C3-49FF-48D2-8241-42C584E7EC37}|time_segmentProj.vcxproj|C:\\24_1_lus\\C\uC5B8\uC5B4\\time_segmentProj\\time.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35E501C3-49FF-48D2-8241-42C584E7EC37}|time_segmentProj.vcxproj|solutionrelative:time.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 166,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "time.c",
+              "DocumentMoniker": "C:\\24_1_lus\\C\uC5B8\uC5B4\\time_segmentProj\\time.c",
+              "RelativeDocumentMoniker": "time.c",
+              "ToolTip": "C:\\24_1_lus\\C\uC5B8\uC5B4\\time_segmentProj\\time.c",
+              "RelativeToolTip": "time.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-24T09:52:03.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
